@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "serverlessphotos": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
