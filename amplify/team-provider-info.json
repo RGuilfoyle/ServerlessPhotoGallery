@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverlessphotogalle-dev-164711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::083950920489:role/amplify-serverlessphotogalle-dev-164711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::083950920489:role/amplify-serverlessphotogalle-dev-164711-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-serverlessphotogalle-dev-164711-deployment",
+      "UnauthRoleName": "amplify-serverlessphotogalle-dev-164711-unauthRole",
+      "StackName": "amplify-serverlessphotogalle-dev-164711",
+      "StackId": "arn:aws:cloudformation:eu-west-1:083950920489:stack/amplify-serverlessphotogalle-dev-164711/dc26cfe0-33f4-11eb-816c-06777de660c1",
+      "AmplifyAppId": "d2n22m0zrzjqb4"
+    },
+    "categories": {
+      "auth": {
+        "serverlessphotogalle6757ae65": {}
+      }
+    }
+  }
+}
