@@ -8,7 +8,7 @@
     }
   },
   "api": {
-    "serverlessgalleryapi": {
+    "notesapp": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "output": {
@@ -16,8 +16,8 @@
           "defaultAuthentication": {
             "authenticationType": "API_KEY",
             "apiKeyConfig": {
-              "apiKeyExpirationDays": 265,
-              "description": "Demo"
+              "apiKeyExpirationDays": 365,
+              "description": "demo"
             }
           },
           "additionalAuthenticationProviders": []
